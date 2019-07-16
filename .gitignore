@@ -1,0 +1,16 @@
+*.__pycache__
+*.DS_Store
+*.pyc
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.bbl
+*.blg
+*.ipynb_checkpoints
+*.class
+*.idea
+*.lift
+*-submit.zip
+*.zip
